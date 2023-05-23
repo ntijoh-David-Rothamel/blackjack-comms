@@ -1,0 +1,15 @@
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.csproj.AssemblyReference.cache
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.AssemblyInfoInputs.cache
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.AssemblyInfo.cs
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.csproj.CoreCompileInputs.cache
+C:\Users\david.rothamel\source\repos\com_client\com_client\bin\Debug\net6.0\com_client.exe
+C:\Users\david.rothamel\source\repos\com_client\com_client\bin\Debug\net6.0\com_client.deps.json
+C:\Users\david.rothamel\source\repos\com_client\com_client\bin\Debug\net6.0\com_client.runtimeconfig.json
+C:\Users\david.rothamel\source\repos\com_client\com_client\bin\Debug\net6.0\com_client.dll
+C:\Users\david.rothamel\source\repos\com_client\com_client\bin\Debug\net6.0\com_client.pdb
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.dll
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\refint\com_client.dll
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.pdb
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\com_client.genruntimeconfig.cache
+C:\Users\david.rothamel\source\repos\com_client\com_client\obj\Debug\net6.0\ref\com_client.dll
